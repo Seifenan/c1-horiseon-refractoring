@@ -1,12 +1,30 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon-C1: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Negative **Reviews** or comments **Online** can really hurt your reputation. 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+> Don't let your reputation remain **vulnerable** to online trolls.
 
-> Always leave the code you are editing a little cleaner than you found it.
+**Horiseon** is a marketing agency that has developed tools to allow you to take back **control** of your business and gain an edge!
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+**Main** Features
+* **S**earch **E**ngine **O**ptimization
+    - Lead Generation
+    - Brand Awareness
+    - Cost Management
+* Online Reputation Management
+* Social Media Marketing
+
+Horiseon's **S**earch **E**ngine **O**ptimization tool increases your online visibility and finds the right customers for your **Business**! 
+
+![seo-img](assets\images\search-engine-optimization.jpg)
+
+The Online Reputation Management tool allows you filter what potential customers see when they search for your business.
+
+![reputation-img](assets\images\online-reputation-management.jpg)
+
+The Social Media Analytical tool helps you determine which platforms are suited to your brand.
+
+![socialmedia-img](assets\images\social-media-marketing.jpg)
 
 ## User Story
 
