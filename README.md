@@ -24,9 +24,9 @@ Negative **Reviews** or comments **Online** can really hurt your reputation.
 --- 
 # Submission
 
-[Github Repository Link](https://github.com/Seifenan/horiseon-refractoring-c1)
+[Github Repository Link](https://github.com/Seifenan/horiseon-refractoring-c1) | https://github.com/Seifenan/horiseon-refractoring-c1
 
-[Deployed Link]()
+[Deployed URL Link](https://seifenan.github.io/horiseon-refractoring-c1/) | https://seifenan.github.io/horiseon-refractoring-c1/
 
 >I was tasked with refactoring **Horiseon**'s HTML and CSS to meet accessibility standards.
 
